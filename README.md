@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/akshatt-d-2051a6253/">https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge</a>
-  <a href="https://www.youtube.com/@alphaesports_games">https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white</a>
+  <a href="https://www.linkedin.com/in/akshatt-d-2051a6253/">LinkedIn</a>
+  <a href="https://www.youtube.com/@alphaesports_games">Youtube</a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=akshattdahiya&style=flat-square&color=blue" alt="counter"/>
 <h1>
